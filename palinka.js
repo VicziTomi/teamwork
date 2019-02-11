@@ -1,0 +1,1 @@
+let palinka = ['alma', 'barack'];

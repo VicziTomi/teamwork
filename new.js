@@ -9,4 +9,5 @@ a();
 
 //ez a következő változtatás
 
+console.log('Hello World!');
 console.log('mostmár nem üres');
